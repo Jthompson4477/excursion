@@ -20,4 +20,21 @@ h1 {
 a {
     color: aquamarine;
     text-decoration: underline;
+    margin: 1rem;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+    margin: 2rem;
+}
+
+h3 {
+    color: gray;
+    font-size: 21px;
+    margin: 1rem;
+}
+
+.camp {
+    margin: 1rem;
 }
